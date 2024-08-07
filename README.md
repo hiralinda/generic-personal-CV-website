@@ -1,4 +1,4 @@
-# Personal CV Generic Website
+# Generic Personal CV Website
 
 A clean, responsive personal CV and portfolio website showcasing generic professional experience, educational background, and personal projects.
 
